@@ -6,7 +6,7 @@ Gatling Java API Udemy Course Code
       <configuration>
         <runMultipleSimulations>true</runMultipleSimulations>
       </configuration>
-
+ to avoid errors like:  More than 1 simulation to run. Either specify one with -Dgatling.simulationClass=<className>, or enable runMultipleSimulations in your pom.xml
          
 * the working full pom file:
 ---------------------------------------------------------
